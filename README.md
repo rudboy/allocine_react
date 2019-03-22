@@ -1,6 +1,6 @@
 ## ScreenShot
 
-![screenshot of Allocine Web App](./screenshot.png?raw=true "screenshot of Allocine Web App")
+![screenshot of Allocine Web App](./Screenshot.png?raw=true "screenshot of Allocine Web App")
 
 ##Presentation
 This project is a copycat of Allociné, made with React and Bootstrap
